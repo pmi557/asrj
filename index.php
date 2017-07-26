@@ -1,4 +1,4 @@
 <?php
     echo "To jest test";
-    echo "Test gita"
+    echo "Hello World"
 ?>
