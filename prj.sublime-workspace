@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"php",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "git clo",
+		"selected_items":
+		[
+			[
+				"git clo",
+				"git: clone"
+			],
+			[
+				"git che",
+				"git: checkout"
+			],
+			[
+				"git log",
+				"git: log"
+			],
+			[
+				"git cl",
+				"github: create pull request"
+			],
+			[
+				"gi",
+				"git: fetch"
+			],
+			[
+				"Git",
+				"git: clone"
+			],
+			[
+				"git",
+				"git: init"
+			],
+			[
+				"Git:",
+				"git: status"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"Git cl",
+				"git: clone"
+			],
+			[
+				"bi",
+				"Bitbucket: Open Issue"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pmujta/Desktop/projekt"
+	],
+	"file_history":
+	[
+		"/Users/pmujta/Desktop/softprojekt/index.php",
+		"/Users/pmujta/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/pmujta/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/pmujta/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/Users/pmujta/Desktop/untitled.php",
+		"/Users/pmujta/Library/Application Support/Sublime Text 3/Packages/User/php.sublime-build",
+		"/Users/pmujta/Downloads/DEV_czas_pracy_2017-07-17_11-39.xml",
+		"/Users/pmujta/Desktop/asr/stt/pom.xml",
+		"/Users/pmujta/Desktop/asr/pom.xml",
+		"/Users/pmujta/Desktop/asr/accommons/src/main/java/db/SQLState.java",
+		"/Users/pmujta/Downloads/crx_to_delete_20170207.sql",
+		"/Users/pmujta/Documents/clx/Hello.java",
+		"/Users/pmujta/mg.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "prj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,4 +1,5 @@
 <?php
-    echo "To jest test";
-    echo "Jest git !"
+    echo "To jest test\n";
+    echo "Jest git !\n"
+    echo "Pierwsze koty za płoty\n"
 ?>
