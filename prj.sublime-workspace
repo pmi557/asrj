@@ -23,21 +23,69 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 327.0,
-		"last_filter": "git clo",
+		"height": 392.0,
+		"last_filter": "git ",
 		"selected_items":
 		[
 			[
-				"git clo",
-				"git: clone"
+				"git ",
+				"git: fetch"
 			],
 			[
 				"git che",
 				"git: checkout"
 			],
 			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git histor",
+				"Git: Commit history"
+			],
+			[
+				"git hist",
+				"GitHub: History"
+			],
+			[
+				"git co",
+				"git: commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
 				"git log",
-				"git: log"
+				"Git: Log All"
+			],
+			[
+				"git com",
+				"git: commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git t",
+				"git: tags"
+			],
+			[
+				"git his",
+				"GitHub: History"
+			],
+			[
+				"git clo",
+				"git: clone"
 			],
 			[
 				"git cl",
@@ -52,15 +100,7 @@
 				"git: clone"
 			],
 			[
-				"git",
-				"git: init"
-			],
-			[
 				"Git:",
-				"git: status"
-			],
-			[
-				"git sta",
 				"git: status"
 			],
 			[
@@ -78,10 +118,6 @@
 			[
 				"install ",
 				"Package Control: Install Package"
-			],
-			[
-				"git ",
-				"Git: Init"
 			],
 			[
 				"Packa",
@@ -116,7 +152,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 485.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -140,6 +176,7 @@
 	],
 	"file_history":
 	[
+		"/Users/pmujta/Desktop/projekt/index.php",
 		"/Users/pmujta/Desktop/softprojekt/index.php",
 		"/Users/pmujta/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
 		"/Users/pmujta/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
