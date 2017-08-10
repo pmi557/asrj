@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="asrj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/asrj_jar</output-path>
+    <root id="archive" name="asrj.jar">
+      <element id="module-output" name="asrj" />
+    </root>
+  </artifact>
+</component>
